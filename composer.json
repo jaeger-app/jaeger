@@ -7,7 +7,8 @@
         "jaeger-app/compress": "dev-master",
         "jaeger-app/platforms": "dev-master",
         "jaeger-app/validate": "dev-master",
-        "jaeger-app/view": "dev-master"
+        "jaeger-app/view": "dev-master",
+        "jaeger-app/errors": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*"
