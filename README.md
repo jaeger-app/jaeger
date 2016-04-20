@@ -2,12 +2,11 @@
 
 Jaeger allows for cross platform plugin development for various content management and e-commerce systems. Currently, Jaeger supports:
 
-1. ExpressionEngine (2&3)
-2. WordPress
-3. Concrete5
-4. PrestaShop
-5. Magento
-6. Craft
+1. [ExpressionEngine (2&3)](https://ellislab.com/expressionengine)
+2. [WordPress](https://wordpress.org/)
+3. [Craft](https://craftcms.com/)
+3. [Concrete5](http://www.concrete5.org/)
+4. [PrestaShop](https://www.prestashop.com/)
 
 ## Installation 
 
