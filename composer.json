@@ -3,11 +3,11 @@
     "description": "The complete collection of Jaeger libraries ready to work with.",
     "require": {
         "php": ">=5.4.0",
-        "jaeger-app/bootstrap": "dev-master",
-        "jaeger-app/compress": "dev-master",
-        "jaeger-app/platforms": "dev-master",
-        "jaeger-app/rest-server": "dev-master",
-        "jaeger-app/rest-client": "dev-master"
+        "jaeger-app/bootstrap": "^0.1",
+        "jaeger-app/compress": "^0.1",
+        "jaeger-app/platforms": "^0.1",
+        "jaeger-app/rest-server": "^0.1",
+        "jaeger-app/rest-client": "^0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*"
